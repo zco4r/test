@@ -1,0 +1,15 @@
+/Users/ammaralazki/RiderProjects/test/test/bin/Debug/net10.0/test
+/Users/ammaralazki/RiderProjects/test/test/bin/Debug/net10.0/test.deps.json
+/Users/ammaralazki/RiderProjects/test/test/bin/Debug/net10.0/test.runtimeconfig.json
+/Users/ammaralazki/RiderProjects/test/test/bin/Debug/net10.0/test.dll
+/Users/ammaralazki/RiderProjects/test/test/bin/Debug/net10.0/test.pdb
+/Users/ammaralazki/RiderProjects/test/test/obj/Debug/net10.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ammaralazki/RiderProjects/test/test/obj/Debug/net10.0/test.AssemblyInfoInputs.cache
+/Users/ammaralazki/RiderProjects/test/test/obj/Debug/net10.0/test.AssemblyInfo.cs
+/Users/ammaralazki/RiderProjects/test/test/obj/Debug/net10.0/test.csproj.CoreCompileInputs.cache
+/Users/ammaralazki/RiderProjects/test/test/obj/Debug/net10.0/test.sourcelink.json
+/Users/ammaralazki/RiderProjects/test/test/obj/Debug/net10.0/test.dll
+/Users/ammaralazki/RiderProjects/test/test/obj/Debug/net10.0/refint/test.dll
+/Users/ammaralazki/RiderProjects/test/test/obj/Debug/net10.0/test.pdb
+/Users/ammaralazki/RiderProjects/test/test/obj/Debug/net10.0/test.genruntimeconfig.cache
+/Users/ammaralazki/RiderProjects/test/test/obj/Debug/net10.0/ref/test.dll
