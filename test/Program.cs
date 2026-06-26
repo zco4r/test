@@ -1,1 +1,9 @@
-﻿Console.WriteLine("Hello, CR7");
+﻿namespace test;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
